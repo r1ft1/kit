@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 2.5.29
+### Patch Changes
+
+
+- fix: open a new tab for `<form target="_blank">` and `<button formtarget="_blank"> submissions ([#11936](https://github.com/sveltejs/kit/pull/11936))
+
 ## 2.5.28
 ### Patch Changes
 
